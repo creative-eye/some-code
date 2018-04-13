@@ -1,0 +1,30 @@
+# Project
+.cache/
+dist/
+em_modules/
+coverage/
+etc/build-config-user.js
+.editorconfig
+.npmignore
+
+# Node / NPM / YARN
+node_modules/
+npm-debug.log
+npm-debug.log.*
+yarn-error.log
+
+# IntelliJ
+.idea/
+
+# OS X
+.DS_Store
+
+# Misc
+seed.pdf
+*.indd
+everymatrix-ruleset.yml
+index-prod.html
+index-stage.html
+site-config.dev.json
+site-config.local.json
+site-config.stage.json

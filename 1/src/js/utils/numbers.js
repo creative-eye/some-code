@@ -1,0 +1,1 @@
+export const isOdd = (no) => no % 2;
